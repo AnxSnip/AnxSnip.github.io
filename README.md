@@ -4,3 +4,6 @@
 
 Le github va marcher comme un html classique, creer des pages ect, il lit dans la prio des fichier, index.html , index.md puis readme.md.
 Voir help.md pour avoir les liens de la doc
+
+ya un preview integré a github
+sinon le lien du site est https://anxsnip.github.io/
